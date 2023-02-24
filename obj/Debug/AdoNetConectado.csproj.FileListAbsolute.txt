@@ -1,0 +1,12 @@
+C:\Users\Windows\source\repos\AdoNetConectado\bin\Debug\AdoNetConectado.exe.config
+C:\Users\Windows\source\repos\AdoNetConectado\bin\Debug\AdoNetConectado.exe
+C:\Users\Windows\source\repos\AdoNetConectado\bin\Debug\AdoNetConectado.pdb
+C:\Users\Windows\source\repos\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\source\repos\AdoNetConectado\obj\Debug\AdoNetConectado.frmTipoClientes.resources
+C:\Users\Windows\source\repos\AdoNetConectado\obj\Debug\AdoNetConectado.Properties.Resources.resources
+C:\Users\Windows\source\repos\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\AdoNetConectado\obj\Debug\AdoNetConectado.exe
+C:\Users\Windows\source\repos\AdoNetConectado\obj\Debug\AdoNetConectado.pdb
+C:\Users\Windows\source\repos\AdoNetConectado\obj\Debug\AdoNetConectado.frmTipoClienteEdit.resources
